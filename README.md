@@ -4,5 +4,4 @@ Trabajo con libGDX para la Asignatura  'Programación Multimedia y Dispositivos 
 Autores:
 
   José Martínez.
-  
   Raúl Luján.
